@@ -1,0 +1,10 @@
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\bin\Debug\CalculateAreaPerimeter.exe.config
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\bin\Debug\CalculateAreaPerimeter.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\bin\Debug\CalculateAreaPerimeter.pdb
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\obj\Debug\CalculateAreaPerimeter.csprojAssemblyReference.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\obj\Debug\CalculateAreaPerimeter.CalculateAreaAndPerimeter.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\obj\Debug\CalculateAreaPerimeter.Properties.Resources.resources
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\obj\Debug\CalculateAreaPerimeter.csproj.GenerateResource.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\obj\Debug\CalculateAreaPerimeter.csproj.CoreCompileInputs.cache
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\obj\Debug\CalculateAreaPerimeter.exe
+C:\Users\Eliseo Rocha\Desktop\CPW 216\CalculateAreaPerimeter\CalculateAreaPerimeter\obj\Debug\CalculateAreaPerimeter.pdb
